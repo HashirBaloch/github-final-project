@@ -1,2 +1,2 @@
 # github-final-project
-FInal Project
+Final Project
